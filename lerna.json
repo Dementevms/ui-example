@@ -10,5 +10,10 @@
     "npmClientArgs": [
       "--no-package-lock"
     ]
+  },
+  "command": {
+    "publish": {
+      "verifyAccess": false
+    }
   }
 }
