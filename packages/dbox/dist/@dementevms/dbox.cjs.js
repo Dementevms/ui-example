@@ -1,16 +1,15 @@
 'use strict';
 
-var React = require('react');
+var Button = require('@dementevms/Button');
+var Typography = require('@dementevms/Typography');
 
-var Button = function Button(_ref) {
-  var children = _ref.children;
-  return /*#__PURE__*/React.createElement("button", null, children);
-};
 
-var Typography = function Typography(_ref) {
-  var children = _ref.children;
-  return /*#__PURE__*/React.createElement("p", null, children);
-};
 
-exports.Button = Button;
-exports.Typography = Typography;
+Object.defineProperty(exports, 'Button', {
+	enumerable: true,
+	get: function () { return Button.Button; }
+});
+Object.defineProperty(exports, 'Typography', {
+	enumerable: true,
+	get: function () { return Typography.Typography; }
+});
