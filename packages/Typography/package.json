@@ -1,5 +1,5 @@
 {
-  "name": "@dementevms/Typography",
+  "name": "@dementev_ms/Typography",
   "version": "1.0.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -21,9 +21,9 @@
   },
   "scripts": {
     "build": "dbox-builder",
-    "test": "node ./__tests__/@dementevms/Typography.test.js"
+    "test": "node ./__tests__/@dementev_ms/Typography.test.js"
   },
   "devDependencies": {
-    "@dementevms/dbox-builder": "^1.0.0"
+    "@dementev_ms/dbox-builder": "^1.0.0"
   }
 }

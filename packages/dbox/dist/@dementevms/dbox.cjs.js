@@ -1,7 +1,7 @@
 'use strict';
 
-var Button = require('@dementevms/Button');
-var Typography = require('@dementevms/Typography');
+var Button = require('@dementev_ms/Button');
+var Typography = require('@dementev_ms/Typography');
 
 
 

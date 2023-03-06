@@ -1,2 +1,2 @@
-export { Button } from '@dementevms/Button';
-export { Typography } from '@dementevms/Typography';
+export { Button } from '@dementev_ms/Button';
+export { Typography } from '@dementev_ms/Typography';

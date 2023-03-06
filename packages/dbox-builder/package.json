@@ -1,5 +1,5 @@
 {
-  "name": "@dementevms/dbox-builder",
+  "name": "@dementev_ms/dbox-builder",
   "version": "1.0.0",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -20,7 +20,7 @@
     "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
-    "test": "node ./__tests__/@dementevms/dbox-builder.test.js"
+    "test": "node ./__tests__/@dementev_ms/dbox-builder.test.js"
   },
   "dependencies": {
     "@babel/core": "^7.21.0",

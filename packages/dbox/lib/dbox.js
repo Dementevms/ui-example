@@ -1,3 +1,3 @@
-import { Button } from '@dementevms/Button';
-import { Typography } from '@dementevms/Typography';
+import { Button } from '@dementev_ms/Button';
+import { Typography } from '@dementev_ms/Typography';
 export { Button, Typography };

@@ -1,11 +1,11 @@
-# `@dementevms/dbox-builder`
+# `@dementev_ms/dbox-builder`
 
 > TODO: description
 
 ## Usage
 
 ```
-const dboxBuilder = require('@dementevms/dbox-builder');
+const dboxBuilder = require('@dementev_ms/dbox-builder');
 
 // TODO: DEMONSTRATE API
 ```
